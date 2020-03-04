@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-XcodeOutdatedExample/Pods-XcodeOutdatedExample-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/AppCenter/AppCenterDistributeResources.bundle
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle
