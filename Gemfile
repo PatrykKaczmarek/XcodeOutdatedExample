@@ -2,6 +2,8 @@
 source 'https://rubygems.org'
 
 # Development tools
-gem 'cocoapods', '~> 1.8.4'
-gem 'danger', '~> 6.1.0'
-gem 'danger-swiftlint', '~> 0.23.0'
+gem 'cocoapods'
+gem 'danger'
+gem 'danger-swiftlint'
+gem 'danger-xcode_outdated', github: "rossta/tacokit", branch: "master"
+gem 'danger-the_coding_love'
